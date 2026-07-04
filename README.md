@@ -1,3 +1,7 @@
+<img width="583" height="496" alt="Screenshot 2026-07-04 111937" src="https://github.com/user-attachments/assets/65b06f4d-ae90-4011-82a2-a4be374e41b4" />
+<img width="703" height="506" alt="Screenshot 2026-07-04 111920" src="https://github.com/user-attachments/assets/97ab6570-cdbd-4b41-9c3a-8e9ac26b32f9" />
+<img width="723" height="551" alt="Screenshot 2026-07-04 112008" src="https://github.com/user-attachments/assets/c43d5f57-b001-49d5-bb9a-e1e32d412f2c" />
+<img width="638" height="577" alt="Screenshot 2026-07-04 111951" src="https://github.com/user-attachments/assets/64dd9873-a154-436f-bd18-ba68784e30b6" />
 <img width="703" height="506" alt="Screenshot 2026-07-04 111920" src="https://github.com/user-attachments/assets/ed8c0d52-101e-419f-bea1-13301461b2b9" />
 
 # 🎯 ResumeIQ — AI-Powered Resume Analyzer
