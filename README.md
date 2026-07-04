@@ -1,3 +1,5 @@
+<img width="703" height="506" alt="Screenshot 2026-07-04 111920" src="https://github.com/user-attachments/assets/ed8c0d52-101e-419f-bea1-13301461b2b9" />
+
 # 🎯 ResumeIQ — AI-Powered Resume Analyzer
 
 <div align="center">
