@@ -1,0 +1,44 @@
+SUMAIR AHMED DERO
+BS Artificial Intelligence | University of Sindh, Jamshoro
+Email: sumair.ahmed@example.com | GitHub: github.com/sumairahmed | LinkedIn: linkedin.com/in/sumairahmed
+
+OBJECTIVE
+Third-year AI student seeking internships in AI/ML engineering. I want to learn and grow.
+
+EDUCATION
+University of Sindh, Jamshoro — BS Artificial Intelligence
+2024 – 2027 | CGPA: 3.2/4.0
+
+EXPERIENCE
+Research Assistant — BBSHRRDB/ORIC, University of Sindh (Jan 2024 – Present)
+- Helped with research
+- Wrote code for data analysis
+- Made reports
+
+ML Intern — ARCH Technologies (Jun 2023 – Aug 2023)
+- Worked on machine learning models
+- Used Python and scikit-learn
+- Did data preprocessing
+
+Intern — CODE Alpha (Dec 2022 – Feb 2023)
+- Built some projects
+- Learned programming
+
+SKILLS
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, scikit-learn,
+Data Analysis, SQL, Git, Linux, NLP, Computer Vision
+
+PROJECTS
+60-Day Python Portfolio Challenge
+- Building one Python project per day for 60 days
+- Projects include CLI tools, web apps, file processors, encryption tools
+
+URL Shortener (Flask + SQLite)
+- Made a web app
+
+PDF Report Generator
+- Used reportlab to make PDFs
+
+CERTIFICATIONS
+- Python for Data Science (Coursera)
+- Machine Learning (Andrew Ng)
